@@ -2,15 +2,12 @@
 
 ## Table of Contents
 
-* [Instructions](#instructions)
+* [Information](#information)
 * [Contributing](#contributing)
 
-## Instructions
+## INFORMATION
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
+Project#3 for Irving Thompson (irving.thompson@pw.utc.com or irving.thompson@prattwhitney.com)
 ## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Completed project based on starter code provided by Udacity
